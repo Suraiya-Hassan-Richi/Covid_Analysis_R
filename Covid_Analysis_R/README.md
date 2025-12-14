@@ -29,8 +29,7 @@ The analysis includes:
 
 - `covid_analysis.R` – Main R script containing all code and analysis steps.
 - `covid19.csv` – COVID-19 dataset used for the analysis.
-- `plots/` – (Optional) Folder containing exported plots from the analysis.
-- `README.md` – Project description (this file).
+- `README.md` – Project description.
 
 ---
 
@@ -52,4 +51,5 @@ The analysis includes:
 
 2. **Run the main analysis script**  
    ```r
+
    source("covid_analysis.R")
